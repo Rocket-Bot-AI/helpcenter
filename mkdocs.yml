@@ -2,7 +2,10 @@ site_name: Rocket Bot
 theme:
   name: material
   features:
+    - content.code.copy
     - toc.integrate 
+    - content.tooltips
+    - header.autohide
   palette:
 
     # Palette toggle for light mode
@@ -20,3 +23,21 @@ theme:
         name: Switch to light mode
 plugins:
   - search
+  - glightbox
+markdown_extensions:
+  - abbr
+  - attr_list
+  - admonition
+  - def_list
+  - footnotes
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - stylesheets/styles.css

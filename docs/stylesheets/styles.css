@@ -1,0 +1,20 @@
+@keyframes pulse {
+    0% {
+        transform: scale(.95)
+    }
+
+    75% {
+        transform: scale(1)
+    }
+
+    to {
+        transform: scale(.95)
+    }
+}
+.md-typeset .mdx-pulse {
+    animation: pulse 2s infinite;
+    color: #526cfe;
+}
+.md-grid {
+    max-width: 50rem;
+}

@@ -1,6 +1,6 @@
 # Welcome to Rocket Bot
 
-    This series of documents will explain what Rocket bot is, which markets it will trade, and how you can set it up on your own account.
+This series of documents will explain what Rocket bot is, which markets it will trade, and how you can set it up on your own account.
 
 
 ## What is Rocket Bot
@@ -9,6 +9,7 @@ In essence, it tries to predict where the market will go next, and accordingly t
 
 ## What are Futures
 Before the bot starts trading, it needs to know which financial instrument to trade. Here is a non exhaustive list of such assets:
+
 1. Futures
 2. Commodities
 3. Forex
@@ -25,6 +26,7 @@ For example, Futures are often centralized, have high liquidity and volatility, 
 Stocks are not necessarily centralized, have a liquidity that varies between stocks, can be volatile (penny stocks) or not (blue chips), can be highly leveraged, some do give out dividends, and are preferred by long term investors.
 
 Futures have 2 major use cases:
+
 + Real world hedging
 + Speculation
 
@@ -44,6 +46,7 @@ Rocket Bot can be classified as such a speculator
 
 ## Why Trade Futures
 Futures have many properties that make them attractive to short term trades, be it day traders or scalpers.
+
 + They are very liquid
 + They have low margin requirements
 + They have built in leverage
@@ -62,6 +65,7 @@ Given the centralized nature of futures markets, a retail trader such as yoursel
 The only difference for you as a trader, is that these other parties charge fees per transaction. These fees are fixed regardless of the broker. However broker fees vary from one platform to another.
 
 In order to choose broker, multiple factors are taken into account:
+
 + What are the fees? Do they have volume discounts?
 + Which platforms are supported?
 + How safe are they?
@@ -81,6 +85,7 @@ This is why fees get added up, however it adds security.
 Ironically, on standard contracts, the fees remain low enough that even crypto futures are not that competitive!
 
 The other kind of risks one need to be careful of are related to the strategy itself, as well as its execution:
+
 + The strategy used by Rocket Bot might fail to survive strong downturns such as the 2008 crash. But, this is only the case when the strategy's backtest is not robust enough
 + The bot itself could fail for many reasons. For example, server failure, lost connection with broker, etc...
 These are technical risks related to our product, and we go over them in another part of the FAQ 
@@ -88,10 +93,12 @@ These are technical risks related to our product, and we go over them in another
 
 ## Understanding the different Future contracts
 Usually, every contract has 2 variants: The mini, and the micro.
+
 + The mini is the big contract
 + The micro is a fraction of the mini, usuall 1/10th
 
 They have everything else in common. Essentially:
+
 + Tick size: The minimum $ amount the instrument must move. It is $0.25 on the $NQ and $1 on the $YM
 + Tick Value: The value of a single tick. For the $NQ, for every 0.25 point movement of the underlying, your PnL moves by $5. So, for every $NQ point move, the PnL moved by $20.
   Note that, for the $MNQ, every point is worth $2 instead of $20
@@ -113,6 +120,7 @@ This safest is a measure of the expected Drawdown, in relation to the expected r
 + It is not possible to trade fractions of a contract. So, one can either buy 1, 2, or more contracts of $NQ.
 + For each contract, the point is worth $20
 + If we make a 100 point profit, the PnL would be +$2,000
+
 Now, on a $5,000 account, this is a wopping 40% return.
 However, it's enough for the $NQ to drop 250 points for the account to wipe out!.
 On a $100,000 account, this is 2%. Still a good number, but now, if the $NQ drops 250 points, we would be losing 5% instead of blowing the account.
