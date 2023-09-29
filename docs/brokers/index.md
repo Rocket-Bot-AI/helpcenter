@@ -5,6 +5,6 @@ Collective2 [supports](https://trade.collective2.com/supported-brokers/) a wide 
 
 We offer tutorials for creating accounts with the following brokers:
 
-1. [Create an Interactive Brokers account](/howto/ibkr_setup)
-2. [Create an AMP Futures account](/howto/amp_setup)
+1. [Create an Interactive Brokers account](/brokers/ibkr_setup)
+2. [Create an AMP Futures account](/brokers/amp_setup)
 
