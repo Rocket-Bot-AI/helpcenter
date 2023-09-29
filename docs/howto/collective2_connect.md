@@ -51,7 +51,7 @@ Once you setup Autotrading, you have to select the Gateway option as this is the
 
 
 <figure markdown>
-  ![Image title](/Pictures/c2/c2-ibkr-0.png){ width="90%" }
+  ![Image title](Pictures/c2/c2-ibkr-0.png){ width="90%" }
   <figcaption>Choose Gateway</figcaption>
 </figure>
 
@@ -59,14 +59,14 @@ Once you setup Autotrading, you have to select the Gateway option as this is the
 Now update the settings to your taste, or leave the default as is.
 
 <figure markdown>
-  ![Image title](/Pictures/c2/c2-ibkr-1.png){ width="90%" }
+  ![Image title](Pictures/c2/c2-ibkr-1.png){ width="90%" }
   <figcaption>Check the settings</figcaption>
 </figure>
 
 Finally, you will have to agree on a bunch of terms and conditions.
 
 <figure markdown>
-  ![Image title](/Pictures/c2/c2-ibkr-2.png){ width="90%" }
+  ![Image title](Pictures/c2/c2-ibkr-2.png){ width="90%" }
   <figcaption>Check the settings</figcaption>
 </figure>
 
@@ -75,11 +75,11 @@ Finally, you will have to agree on a bunch of terms and conditions.
 Setting AMP is similar, but it requires your CQG account, and MT5 account, which you are given when creating the account.
 
 <figure markdown>
-  ![Image title](/Pictures/c2/c2-amp-0.png){ width="90%" }
+  ![Image title](Pictures/c2/c2-amp-0.png){ width="90%" }
   <figcaption>Select AMP</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](/Pictures/c2/c2-amp-1.png){ width="90%" }
+  ![Image title](Pictures/c2/c2-amp-1.png){ width="90%" }
   <figcaption>Enter CQG and AMP account numbers</figcaption>
 </figure>
