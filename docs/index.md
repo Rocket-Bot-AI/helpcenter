@@ -89,7 +89,6 @@ The other kind of risks one need to be careful of are related to the strategy it
 + The strategy used by Rocket Bot might fail to survive strong downturns such as the 2008 crash. But, this is only the case when the strategy's backtest is not robust enough
 + The bot itself could fail for many reasons. For example, server failure, lost connection with broker, etc...
 These are technical risks related to our product, and we go over them in another part of the FAQ 
-#MISSING
 
 ## Understanding the different Future contracts
 Usually, every contract has 2 variants: The mini, and the micro.

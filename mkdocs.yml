@@ -3,9 +3,15 @@ theme:
   name: material
   features:
     - content.code.copy
+    - content.code.annotate
     - toc.integrate 
     - content.tooltips
     - header.autohide
+    - navigation.tabs
+    - navigation.path
+    - navigation.tracking
+    - navigation.top
+    - navigation.expand
   palette:
 
     # Palette toggle for light mode
@@ -41,3 +47,16 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 extra_css:
   - stylesheets/styles.css
+
+
+nav:
+  - Rocket Bot:
+    - index.md
+  - Supported Brokers:
+    - brokers/index.md
+    - brokers/ibkr_setup.md
+    - brokers/amp_setup.md
+  - How to Trade:
+    - howto/index.md
+    - howto/collective2_setup.md
+    - howto/collective2_connect.md

@@ -1,7 +1,8 @@
 ---
 status: new
 ---
-# Setting up Rocket Bot on AMP Futures 
+
+# AMP Futures
 
 AMP futures is a popular futures brokers.
 The reason we chose it is because they support Metatrader5.
