@@ -10,11 +10,11 @@ We are using it because it simplifies a lot of the hurdles we might face when of
 Here's key facts to know:
 
 1. With collective 2, you do NOT have to give us your money. It stays safely in your brokerage account.
-2. Collective 2 charges you a fee in order to connect to your brokerage account and mirror the trades from rocket bot
-3. We charge you a flat monthly fee in order to manage your strategy. 
+2. Collective 2 charges a fee in order to connect to your brokerage account and mirror the trades from rocket bot
+3. We charge a flat monthly fee in order to manage your strategy. 
    
 Traditional hedge fund charge a 2% management fee regardless of performance, and then take around 20% of the profits they generate to you.
-With Collective 2, you don't get charged the 20% performance fee, and the management fee is not a function of capital.
+With Collective 2, you don't get charged the 20% performance fee, and the management fee is not a function of capital but a flat monthly fee!
 
 ## Collective 2 account creation
 
@@ -40,3 +40,7 @@ The last step will be phone verification.
   <figcaption>Phone Verification</figcaption>
 </figure>
 
+## Broker Connection
+
+Once you have created your account and succesfully verified it, it is time to connect it to your broker.
+Head over [here](/howto/collective2_connect) for instructions.

@@ -4,8 +4,7 @@ One you have created a [brokerage account](/brokers), and a [C2 account](/howto/
 
 ## Subscribe to the strategy
 
-Check on rocket bot's website, which 
-First, choose the strategy you want to trade, by looking at the catalogue of strategies on the [Rocket bot website](https://rb-website-seven.vercel.app/).
+First, subscribe to our flagship strategy: [Rocket Bot Starter](https://collective2.com/details/145905281).
 
 Once you land on the strategy page, make sure to click on the Subscribe button.
 
@@ -36,7 +35,7 @@ You will be told that you to setup Autotrader to connect your broker.
 
 The first thing you need to do is setup and pay for Auto-Trade.
 
-AutoTrading lets you choose any strategy on this Web site and have its trades placed automatically in your real-life brokerage account.
+AutoTrade, is a feature created and maintained by Collective2 that allows you to choose any strategy on their website, subscribe to it, and connect ti directly to your broker account. No more setup required on your behalf, and you do NOT need to move your funds outside of your own trading accounts.
 
 <figure markdown>
   ![Image title](/Pictures/c2/setup-3.png){ width="90%" }
@@ -83,3 +82,4 @@ Setting AMP is similar, but it requires your CQG account, and MT5 account, which
   ![Image title](Pictures/c2/c2-amp-1.png){ width="90%" }
   <figcaption>Enter CQG and AMP account numbers</figcaption>
 </figure>
+

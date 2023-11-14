@@ -106,3 +106,4 @@ IBKR might request for more documents along the way. Please make sure to submit 
 ## Connect to Collective 2
 
 Once your IBKR account is approved and you fund it with the minimal recommended capital, please head [here](/howto/) to learn how to connect your IBKR account with Rocket bot using Collective 2.
+
