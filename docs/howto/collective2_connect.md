@@ -10,7 +10,7 @@ Once you land on the strategy page, make sure to click on the Subscribe button.
 
 
 <figure markdown>
-  ![Image title](/Pictures/c2/setup-0.png){ width="90%" }
+  ![Image title](Pictures/c2/setup-0.png){ width="90%" }
   <figcaption>Subscribe to Strategy</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Once you land on the strategy page, make sure to click on the Subscribe button.
 You will then be redirected to purchase the strategy
 
 <figure markdown>
-  ![Image title](/Pictures/c2/setup-2.png){ width="90%" }
+  ![Image title](Pictures/c2/setup-2.png){ width="90%" }
   <figcaption>Subscribe to Strategy</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ You will then be redirected to purchase the strategy
 You will be told that you to setup Autotrader to connect your broker.
 
 <figure markdown>
-  ![Image title](/Pictures/c2/setup-1.png){ width="90%" }
+  ![Image title](Pictures/c2/setup-1.png){ width="90%" }
   <figcaption>Connect your broker</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ The first thing you need to do is setup and pay for Auto-Trade.
 AutoTrade, is a feature created and maintained by Collective2 that allows you to choose any strategy on their website, subscribe to it, and connect ti directly to your broker account. No more setup required on your behalf, and you do NOT need to move your funds outside of your own trading accounts.
 
 <figure markdown>
-  ![Image title](/Pictures/c2/setup-3.png){ width="90%" }
+  ![Image title](Pictures/c2/setup-3.png){ width="90%" }
   <figcaption>Setup AutoTrader</figcaption>
 </figure>
 
