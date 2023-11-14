@@ -4,7 +4,7 @@ status: new
 # Interactive Brokers
 
 Interactive Brokers (IBKR) is a very popular all around established broker. It has access to a wide range of markets, and offers competitive fees.
-While RocketBot was not built to trade on IBKR, it is still possible to use it via [Collective 2](/collective2_setup/)
+While RocketBot was not built to trade on IBKR, it is still possible to use it via Collective 2.
 
 
 ## Create an Interactive Brokers Account
@@ -100,10 +100,4 @@ Make sure to agree to all aggrements
 You will need to upload passport and bank statements in order to have your account approved.
 
 IBKR might request for more documents along the way. Please make sure to submit them.
-
-----
-
-## Connect to Collective 2
-
-Once your IBKR account is approved and you fund it with the minimal recommended capital, please head [here](/howto/) to learn how to connect your IBKR account with Rocket bot using Collective 2.
 
